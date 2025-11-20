@@ -1,0 +1,221 @@
+{
+  "type": "java",
+  "labName": "Operators",
+  "testFiles": [
+    {
+      "path": "src/test/java/ComparisonsTest.java",
+      "testCases": [
+        {
+          "methodName": "isEqualTest1",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isEqualTest1."
+        },
+        {
+          "methodName": "isEqualTest2",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isEqualTest2."
+        },
+        {
+          "methodName": "isGreaterThanTest1",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isGreaterThanTest1."
+        },
+        {
+          "methodName": "isGreaterThanTest2",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isGreaterThanTest2."
+        },
+        {
+          "methodName": "isGreaterThanTest3",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isGreaterThanTest3."
+        },
+        {
+          "methodName": "isLessThanTest1",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isLessThanTest1."
+        },
+        {
+          "methodName": "isLessThanTest2",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isLessThanTest2."
+        },
+        {
+          "methodName": "isLessThanTest3",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isLessThanTest3."
+        },
+        {
+          "methodName": "isGreaterThanOrEqualToTest1",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isGreaterThanOrEqualToTest1."
+        },
+        {
+          "methodName": "isGreaterThanOrEqualToTest2",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isGreaterThanOrEqualToTest2."
+        },
+        {
+          "methodName": "isGreaterThanOrEqualToTest3",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isGreaterThanOrEqualToTest3."
+        },
+        {
+          "methodName": "isLessThanOrEqualToTest1",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isLessThanOrEqualToTest1."
+        },
+        {
+          "methodName": "isLessThanOrEqualToTest2",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isLessThanOrEqualToTest2."
+        },
+        {
+          "methodName": "isLessThanOrEqualToTest3",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isLessThanOrEqualToTest3."
+        },
+        {
+          "methodName": "isNotEqualToTest1",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isNotEqualToTest1."
+        },
+        {
+          "methodName": "isNotEqualToTest2",
+          "label": "comparison operator test",
+          "description": "Verifies correct behavior of the comparison operation exercised in isNotEqualToTest2."
+        }
+      ]
+    },
+    {
+      "path": "src/test/java/BooleansTest.java",
+      "testCases": [
+        {
+          "methodName": "returnBooleanTest1",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnBooleanTest1."
+        },
+        {
+          "methodName": "returnBooleanTest2",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnBooleanTest2."
+        },
+        {
+          "methodName": "returnNotTest1",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnNotTest1."
+        },
+        {
+          "methodName": "returnNotTest2",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnNotTest2."
+        },
+        {
+          "methodName": "returnAndTest1",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnAndTest1."
+        },
+        {
+          "methodName": "returnAndTest2",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnAndTest2."
+        },
+        {
+          "methodName": "returnAndTest3",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnAndTest3."
+        },
+        {
+          "methodName": "returnAndTest4",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnAndTest4."
+        },
+        {
+          "methodName": "returnOrTest1",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnOrTest1."
+        },
+        {
+          "methodName": "returnOrTest2",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnOrTest2."
+        },
+        {
+          "methodName": "returnOrTest3",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnOrTest3."
+        },
+        {
+          "methodName": "returnOrTest4",
+          "label": "boolean logic test",
+          "description": "Checks correctness of boolean logic demonstrated in returnOrTest4."
+        }
+      ]
+    },
+    {
+      "path": "src/test/java/BooleansAdvancedTest.java",
+      "testCases": [
+        {
+          "methodName": "returnNotBothTest1",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnNotBothTest1."
+        },
+        {
+          "methodName": "returnNotBothTest2",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnNotBothTest2."
+        },
+        {
+          "methodName": "returnNotBothTest3",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnNotBothTest3."
+        },
+        {
+          "methodName": "returnNotBothTest4",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnNotBothTest4."
+        },
+        {
+          "methodName": "returnExclusiveOrTest1",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnExclusiveOrTest1."
+        },
+        {
+          "methodName": "returnExclusiveOrTest2",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnExclusiveOrTest2."
+        },
+        {
+          "methodName": "returnExclusiveOrTest3",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnExclusiveOrTest3."
+        },
+        {
+          "methodName": "returnExclusiveOrTest4",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnExclusiveOrTest4."
+        },
+        {
+          "methodName": "returnNeitherNorTest1",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnNeitherNorTest1."
+        },
+        {
+          "methodName": "returnNeitherNorTest2",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnNeitherNorTest2."
+        },
+        {
+          "methodName": "returnNeitherNorTest3",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnNeitherNorTest3."
+        },
+        {
+          "methodName": "returnNeitherNorTest4",
+          "label": "advanced boolean logic test",
+          "description": "Validates advanced boolean condition evaluated in returnNeitherNorTest4."
+        }
+      ]
+    }
+  ]
+}
